@@ -1,0 +1,16 @@
+com\medibank\codingchallenge\model\Cache.class
+com\medibank\codingchallenge\service\ArticleServiceException.class
+com\medibank\codingchallenge\controller\ExceptionHandlerControllerAdvice.class
+com\medibank\codingchallenge\model\UnsplashResponse.class
+com\medibank\codingchallenge\repository\CacheRepository.class
+com\medibank\codingchallenge\controller\ArticleController.class
+com\medibank\codingchallenge\model\HackerNewsResponse.class
+com\medibank\codingchallenge\model\Hits.class
+com\medibank\codingchallenge\model\UnsplashImageResults$ImageType.class
+com\medibank\codingchallenge\service\ArticleServiceImpl.class
+com\medibank\codingchallenge\CodingChallengeApplication.class
+com\medibank\codingchallenge\model\ExceptionResponse.class
+com\medibank\codingchallenge\model\UnsplashImageResults.class
+com\medibank\codingchallenge\service\ArticleService.class
+com\medibank\codingchallenge\model\Response.class
+com\medibank\codingchallenge\service\ArticleNotFoundException.class
